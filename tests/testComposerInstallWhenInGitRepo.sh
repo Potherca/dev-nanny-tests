@@ -1,2 +1,2 @@
 git init
-composer update | grep --quiet 'Installed dev-nanny pre-commit hook'
+composer update --prefer-source --no-interaction | grep --quiet 'Installed dev-nanny pre-commit hook'

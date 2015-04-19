@@ -1,4 +1,4 @@
-# Dev-Nanny Tests [![Project Stage: Development]][Project Stage Page]
+# Dev-Nanny Tests [![Project Stage: Development]][Project Stage Page] ![Codeship Build Badge]  
 
 
 ## Introduction
@@ -25,3 +25,4 @@ test.
 
 [Project Stage Page]: http://bl.ocks.org/potherca/raw/a2ae67caa3863a299ba0/
 [Project Stage: Development]: http://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
+[Codeship Build Badge]: https://img.shields.io/codeship/ed8a5db0-c90a-0132-6c0f-1e9b8d507ee8.svg
