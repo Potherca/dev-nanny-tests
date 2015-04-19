@@ -1,0 +1,11 @@
+{
+    "name" : "dev-nanny/test-project",
+    "description" : "Verify basic dev-nanny round-trip",
+
+    "require": {
+        "dev-nanny/dev-nanny": "~0.1"
+    },
+
+    "repositories": [
+    ]
+}
