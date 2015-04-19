@@ -1,4 +1,5 @@
 git init
+composer install --prefer-source --no-interaction
 echo '<?php foo' > foo.php
 git add foo.php
 
